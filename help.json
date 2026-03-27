@@ -1,0 +1,17 @@
+{
+    "General Commands" : {
+        "/help" : "Shows all commands",
+        "/ping" : "Bot Latency"
+    },
+    "Fun Commands" : {
+        "/8ball" : "8Ball Command",
+        "/ricefacts" : "Fun facts about rice",
+        "/wikipedia" : "Returns a Wikipedia summary"
+    },
+    "Moderator Commands" : {
+        "/kick" : "Kick a member",
+        "/ban" : "Ban a member",
+        "/purge" : "Deletes messages",
+        "/devping" : "Ping a specific role"
+    }
+}
