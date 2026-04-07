@@ -2,7 +2,7 @@
 Title: Rice Bot
 Description: Custom made Discord bot using py-cord's API
 Date Created: 10/13/22
-Author: ci5p on Discord
+Author: GoldenKisp
 """
 
 # Required Packages
