@@ -3,7 +3,7 @@ I created this Discord Bot in my leisure time in 2022. Some features of the bot 
 
 ### Information
 - Status: Discontinued
-- Created By: ci5p on Discord
+- Created By: GoldenKisp
 - Creation Date: 10/13/22
 - Discord: N/A
 
